@@ -1,0 +1,14 @@
+{
+  "url": "https://opensource-demo.orangehrmlive.com/",
+  "users": [
+    {
+      "username": "Admin",
+      "password": "admin123",
+      "role": "Valid Admin",
+      "new_employee": {
+        "first_name": "Midhunam",
+        "last_name": "Cafe"
+      }
+    }
+  ]
+}
